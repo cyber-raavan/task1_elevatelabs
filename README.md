@@ -117,5 +117,3 @@ Open the resulting `.cap` file in Wireshark for analysis. WPA2-protected traffic
 KUSH THAKER — kthaker442@gmail.com
 
 ---
-
-*README generated from provided task notes. Update the files and `images/` folder with the actual screenshots and capture files for a complete repository.*
