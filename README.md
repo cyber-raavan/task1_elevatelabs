@@ -18,7 +18,6 @@ This repository documents a network discovery and port-scanning task performed o
 
 ## Files in this repository
 - `task1.html` — Saved Nmap scan output (full scan report).
-- `task1-01.cap` — Wireless capture file created by `airodump-ng` (if included).
 - `images/` — Folder containing screenshots referenced in this README (if included): `ifconfig`, `nmaptask1`, `nmapscanend`, and other relevant screenshots.
 
 ---
